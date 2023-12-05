@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>無標題文件</title>
+</head>
+
+<body>
+<h1>Fish's 網站</h1>
+<h3>welcome</h3>
+<p><a href="mailto:1228gm@gmail.com">email</a></p>
+<hr>
+<p>song</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/uiZkYwiHRHI?si=S1nEUjaGXG-aoqmz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>&nbsp;</p>
+</body>
+</html>
